@@ -30,6 +30,3 @@ BEGIN
     RETURN v_emp_id;
 END;
 $$ LANGUAGE plpgsql SECURITY DEFINER;
-
-!
-
